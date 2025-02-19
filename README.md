@@ -4,4 +4,5 @@ Alur Fitur Login:
 1. Memasukkan email dan password
 2. Memvalidasi masukan.
 3. Menampilkan halaman home.
-4. Logout
+4. Menampilkan promo yang tersedia
+5. Logout
