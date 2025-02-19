@@ -5,3 +5,4 @@ Alur Fitur Login:
 2. Memvalidasi masukan.
 3. Menampilkan halaman home.
 4. Menampilkan promo yang tersedia
+5. Logout
